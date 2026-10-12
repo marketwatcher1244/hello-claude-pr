@@ -1,6 +1,6 @@
 # hello-claude-pr
 
-A tiny arithmetic libary used to practice opening pull requests.
+A tiny arithmetic library used to practice opening pull requests.
 
 ## Usage
 
@@ -13,7 +13,7 @@ multiply(4, 3)  # 12
 divide(10, 2)   # 5.0
 ```
 
-Each function recieves two numbers and returns the result.
+Each function receives two numbers and returns the result.
 
 ## Tests
 
